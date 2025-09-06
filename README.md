@@ -142,12 +142,12 @@ const riguel = {
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rigueldi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rigueldi&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riguel8&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riguel8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rigueldi&theme=react&hide_border=true&background=0D1117&stroke=00D9FF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riguel8&theme=react&hide_border=true&background=0D1117&stroke=00D9FF"/>
 </div>
 
 ---
@@ -155,7 +155,7 @@ const riguel = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rigueldi&theme=discord&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=riguel8&theme=discord&no-frame=true&no-bg=true&margin-w=4"/>
 </div>
 
 ---
@@ -164,8 +164,8 @@ const riguel = {
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rigueldi&repo=awesome-project-1&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/rigueldi/awesome-project-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rigueldi&repo=awesome-project-2&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/rigueldi/awesome-project-2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riguel8&repo=awesome-project-1&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/riguel8/awesome-project-1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riguel8&repo=awesome-project-2&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/riguel8/awesome-project-2)
 
 </div>
 
@@ -177,7 +177,7 @@ const riguel = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruel-miguel-diaz-0b3922359)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmdiaz1234@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rigueldi)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riguel8)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://riguel.dev)
 
 </div>
@@ -188,11 +188,11 @@ const riguel = {
 
 ### 🎯 "If the code doesn't bother you, don't bother it."
 
-![Profile Views](https://komarev.com/ghpvc/?username=rigueldi&label=Profile%20Views&color=brightgreen&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/rigueldi?label=Followers&style=for-the-badge&color=blue)](https://github.com/rigueldi)
-[![GitHub Stars](https://img.shields.io/github/stars/rigueldi?label=Stars&style=for-the-badge&color=yellow)](https://github.com/rigueldi)
+![Profile Views](https://komarev.com/ghpvc/?username=riguel8&label=Profile%20Views&color=brightgreen&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/riguel8?label=Followers&style=for-the-badge&color=blue)](https://github.com/riguel8)
+[![GitHub Stars](https://img.shields.io/github/stars/riguel8?label=Stars&style=for-the-badge&color=yellow)](https://github.com/riguel8)
 
-### ⭐ From [rigueldi](https://github.com/rigueldi) with ❤️
+### ⭐ From [riguel8](https://github.com/riguel8) with ❤️
 
 **Happy Coding!** 🚀✨
 
